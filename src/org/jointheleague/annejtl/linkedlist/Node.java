@@ -1,3 +1,4 @@
+package org.jointheleague.annejtl.linkedlist;
 
 
 public class Node<T> {
